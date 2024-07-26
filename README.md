@@ -4,7 +4,9 @@
 
 ### Ferramentas Utilizadas
 •	Power BI: Ferramenta de visualização de dados utilizada para criar o dashboard.
+
 •	Excel: Utilizado para preparar e organizar o dataset.
+
 •	Figma: Utilizado para criar um layout profissional para o dashboard.
 
 ### Desenvolvimento
